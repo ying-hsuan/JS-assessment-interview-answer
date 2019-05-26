@@ -1,4 +1,3 @@
-# 2019/5 JS 面試測驗
 # JS assessment 中文版
 
 此Repository包含了一系列的測試檔案，用以評量或加強對於Javascript的瞭解程度。
